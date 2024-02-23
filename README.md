@@ -1,1 +1,1 @@
-# GAMM
+# MOCHIS-G
